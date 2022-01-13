@@ -85,7 +85,7 @@ go to your browser and go to http://localhost:5000/
 
 
 ## Videos
-  <a src='https://drive.google.com/drive/folders/16V4ifbCAqpNqFoK3_zdZmXNxinvTYb5b'>Player</a>
+  <a href='https://drive.google.com/drive/folders/16V4ifbCAqpNqFoK3_zdZmXNxinvTYb5b'>Player</a>
 ## File Structure <a name = "file"></a>
 ```
 |-- 
