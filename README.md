@@ -74,11 +74,10 @@ go to your browser and go to http://localhost:5000/
    <img width=100% src="ss/13.PNG" alt="logo"></a>
    <hr>
    <h2 align='left'>resopnsive</h2>
-   <img width=100% src="ss/8.PNG" alt="logo"></a>
-   <img width=100% src="ss/9.PNG" alt="logo"></a>
-   <img width=100% src="ss/10.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="ss/11.PNG" alt="logo"></a>
+   <img width=50% src="ss/8.PNG" alt="logo"></a>
+   <img width=50% src="ss/9.PNG" alt="logo"></a>
+   <img width=50% src="ss/10.PNG" alt="logo"></a>
+   <img width=50% src="ss/11.PNG" alt="logo"></a>
    <hr>
    
    
