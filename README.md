@@ -21,10 +21,10 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Get Started](#Install)
+- [Get started](#Install)
 - [Technology](#tech)
 - [Screenshots](#Screenshots)
-- [file structure](#file)
+- [File structure](#file)
 
 ## 📙 About <a name = "about"></a>
 Responsive Frontend which mocks tumbler ui/ux.
