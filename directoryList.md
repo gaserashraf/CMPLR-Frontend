@@ -1,93 +1,99 @@
-
-
-# CMPLR
-<p align="center">
-  <a href="" rel="noopener">
-</p>
-<p align="center">  CMPLR
-    <br> 
-</p>
-<div align="center">
-  
-[![GitHub contributors](https://img.shields.io/github/contributors/CMPLR-Technologies/CMPLR-Frontend)](https://github.com/CMPLR-Technologies/CMPLR-Frontend/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/CMPLR-Technologies/CMPLR-Frontend)](https://github.com/CMPLR-Technologies/CMPLR-Frontend/issues)
-[![GitHub forks](https://img.shields.io/github/forks/CMPLR-Technologies/CMPLR-Frontend)](https://github.com/CMPLR-Technologies/CMPLR-Frontend/network)
-[![GitHub stars](https://img.shields.io/github/stars/gaserashraf/CMPLR-Frontend)](https://github.com/gaserashraf/CMPLR-Frontend/stargazers)
-[![GitHub license](https://img.shields.io/github/license/CMPLR-Technologies/CMPLR-Frontend)](https://github.com/CMPLR-Technologies/CMPLR-Frontend/blob/master/LICENSE)
-
-</div>
-
-
-## 📝 Table of Contents
-
-- [About](#about)
-- [Get Started](#Install)
-- [Technology](#tech)
-- [Screenshots](#Screenshots)
-- [file structure](#file)
-
-## 📙 About <a name = "about"></a>
-Responsive Frontend which mocks tumbler ui/ux.
-
-## 🏁 Get Started <a name = "Install"></a>
-1. **Clone the repository**
 ```
-git clone https://github.com/gaserashraf/CMPLR-Frontend.git
-```
-```
-cd CMPLR-Frontend
-```
-2. **Running**
-```
-npm i
-```
-```
-npm start
-```
-go to your browser and go to http://localhost:5000/
-
-## 💻 Built Using <a name = "tech"></a>
-- **React.js**
-- **Docker**
-- **Jest**
-- **webpack**
-- **NPM**
-- **SASS**
-## 📷 Demo Screenshots 
-
-<div name="Screenshots" align="center">
-   <img width=100% src="ss/1.PNG" alt="logo"></a>
-   <img width=100% src="ss/2.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="ss/3.PNG" alt="logo"></a>
-   <img width=100% src="ss/4.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="ss/5.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="ss/6.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="ss/7.PNG" alt="logo"></a>
-   <img width=100% src="ss/14.PNG" alt="logo"></a>
-   <hr>
-   <h2 align='left'>9 themes</h2>
-   <img width=100% src="ss/12.PNG" alt="logo"></a>
-   <img width=100% src="ss/13.PNG" alt="logo"></a>
-   <hr>
-   <h2 align='left'>resopnsive</h2>
-   <img width=100% src="ss/8.PNG" alt="logo"></a>
-   <img width=100% src="ss/9.PNG" alt="logo"></a>
-   <img width=100% src="ss/10.PNG" alt="logo"></a>
-   <hr>
-   <img width=100% src="ss/11.PNG" alt="logo"></a>
-   <hr>
-   
-   
-</div>
-
-
-## File Structure <a name = "file"></a>
-```
-|-- 
+|-- undefined
+    |-- .env
+    |-- .eslintrc.js
+    |-- .gitignore
+    |-- .prettierrc
+    |-- Dockerfile
+    |-- jsdoc.json
+    |-- package-lock.json
+    |-- package.json
+    |-- README.md
+    |-- yarn.lock
+    |-- .vscode
+    |   |-- extensions.json
+    |   |-- settings.json
+    |-- docs
+    |   |-- containers_RegisterCard.jsx.html
+    |   |-- containers_RegisterGoogleMedia.jsx.html
+    |   |-- containers_RegisterStepOne.jsx.html
+    |   |-- containers_RegisterStepTwo.jsx.html
+    |   |-- ForgetPasswordComponent_containers_ForgetPassword.jsx.html
+    |   |-- global.html
+    |   |-- homeComponent_containers_Sec1_Button.jsx.html
+    |   |-- homeComponent_containers_Sec1_Footer.jsx.html
+    |   |-- homeComponent_containers_Sec1_HomeSec1.jsx.html
+    |   |-- homeComponent_containers_Sec2_HomeSec2.jsx.html
+    |   |-- homeComponent_containers_Sec3_HomeSec3.jsx.html
+    |   |-- homeComponent_containers_Sec4_HomeSec4.jsx.html
+    |   |-- homeComponent_containers_Sec5_HomeSec5.jsx.html
+    |   |-- homeComponent_containers_Sec5_PostType.jsx.html
+    |   |-- homeComponent_containers_SideNav_SideNav.jsx.html
+    |   |-- index.html
+    |   |-- loginComponent_containers_LoginCard.jsx.html
+    |   |-- loginComponent_View.jsx.html
+    |   |-- module-AuthAlert.html
+    |   |-- navbarComponent_containers_navbarLinks_links_AuthLinks.jsx.html
+    |   |-- navbarComponent_containers_navbarLinks_links_UnAuthLinks.jsx.html
+    |   |-- navbarComponent_containers_navbarLinks_NavbarLinks.jsx.html
+    |   |-- navbarComponent_containers_searchBar_SearchBar.jsx.html
+    |   |-- navbarComponent_containers_section1_NavbarMenuMobile.jsx.html
+    |   |-- navbarComponent_containers_section1_NavbarSection1.jsx.html
+    |   |-- navbarComponent_containers_section1_Section1.jsx.html
+    |   |-- navbarComponent_View.jsx.html
+    |   |-- partials_AuthAlert.jsx.html
+    |   |-- partials_AuthBtn.jsx.html
+    |   |-- partials_AuthFooter.jsx.html
+    |   |-- partials_AuthInput.jsx.html
+    |   |-- partials_PlaystoreApplestore.jsx.html
+    |   |-- registerComponent_containers_RegisterCard.jsx.html
+    |   |-- registerComponent_containers_RegisterGoogleMedia.jsx.html
+    |   |-- registerComponent_containers_RegisterStepOne.jsx.html
+    |   |-- registerComponent_containers_RegisterStepTwo.jsx.html
+    |   |-- registerComponent_View.jsx.html
+    |   |-- ResetPasswordComponent_containers_ResetPassword.jsx.html
+    |   |-- resetPasswordComponent_containers_ResetPasswordCard.jsx.html
+    |   |-- shortcuts_containers_Shortcut.jsx.html
+    |   |-- shortcuts_containers_ShortcutGroup.jsx.html
+    |   |-- shortcuts_containers_ShortcutsContainer.jsx.html
+    |   |-- shortcuts_View.jsx.html
+    |   |-- ThemeToggle.jsx.html
+    |   |-- View.jsx.html
+    |   |-- fonts
+    |   |   |-- OpenSans-Bold-webfont.eot
+    |   |   |-- OpenSans-Bold-webfont.svg
+    |   |   |-- OpenSans-Bold-webfont.woff
+    |   |   |-- OpenSans-BoldItalic-webfont.eot
+    |   |   |-- OpenSans-BoldItalic-webfont.svg
+    |   |   |-- OpenSans-BoldItalic-webfont.woff
+    |   |   |-- OpenSans-Italic-webfont.eot
+    |   |   |-- OpenSans-Italic-webfont.svg
+    |   |   |-- OpenSans-Italic-webfont.woff
+    |   |   |-- OpenSans-Light-webfont.eot
+    |   |   |-- OpenSans-Light-webfont.svg
+    |   |   |-- OpenSans-Light-webfont.woff
+    |   |   |-- OpenSans-LightItalic-webfont.eot
+    |   |   |-- OpenSans-LightItalic-webfont.svg
+    |   |   |-- OpenSans-LightItalic-webfont.woff
+    |   |   |-- OpenSans-Regular-webfont.eot
+    |   |   |-- OpenSans-Regular-webfont.svg
+    |   |   |-- OpenSans-Regular-webfont.woff
+    |   |-- scripts
+    |   |   |-- linenumber.js
+    |   |   |-- prettify
+    |   |       |-- Apache-License-2.0.txt
+    |   |       |-- lang-css.js
+    |   |       |-- prettify.js
+    |   |-- styles
+    |       |-- jsdoc-default.css
+    |       |-- prettify-jsdoc.css
+    |       |-- prettify-tomorrow.css
+    |-- nginx
+    |   |-- nginx.conf
+    |-- public
+    |   |-- index.html
+    |   |-- manifest.json
+    |   |-- robots.txt
     |-- src
     |   |-- App.js
     |   |-- App.testjs
@@ -97,6 +103,24 @@ go to your browser and go to http://localhost:5000/
     |   |-- reportWebVitals.js
     |   |-- setupTests.js
     |   |-- assets
+    |   |   |-- backgrounds
+    |   |   |   |-- b1.jpg
+    |   |   |   |-- b2.jpg
+    |   |   |   |-- b3.jpg
+    |   |   |   |-- b4.jpg
+    |   |   |-- images
+    |   |   |   |-- bg1.jpg
+    |   |   |   |-- bg2.jpg
+    |   |   |   |-- bg3.png
+    |   |   |   |-- bg4.jpg
+    |   |   |   |-- bg5.jpg
+    |   |   |   |-- bg6.jpg
+    |   |   |   |-- bg7.jpg
+    |   |   |   |-- blogs.jpeg
+    |   |   |   |-- logo.svg
+    |   |   |   |-- posts.jpeg
+    |   |   |-- js
+    |   |       |-- backgroundImages.js
     |   |-- components
     |   |   |-- ThemeToggle.jsx
     |   |   |-- forgetPasswordComponent
@@ -236,18 +260,19 @@ go to your browser and go to http://localhost:5000/
     |   |           |-- shortcuts.scss
     |   |-- __mock_database
     |       |-- db.json
+    |-- ss
+        |-- 1.PNG
+        |-- 10.PNG
+        |-- 11.PNG
+        |-- 12.PNG
+        |-- 13.PNG
+        |-- 14.PNG
+        |-- 2.PNG
+        |-- 3.PNG
+        |-- 4.PNG
+        |-- 5.PNG
+        |-- 6.PNG
+        |-- 7.PNG
+        |-- 8.PNG
+        |-- 9.PNG
 ```
-## ✨ Contributors
-<table>
-  <tr>
-  <td align="center"><a href="https://github.com/Hazemkak"><img src="https://avatars.githubusercontent.com/u/56845578?v=4" width="150px;" alt=""/><br /><sub><b>Hazem Kasim</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/gaserashraf"><img src="https://avatars3.githubusercontent.com/u/65467183?s=250&v=4" width="150px;" alt=""/><br /><sub><b>Gaser Ashraf</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/AhmedKhaled590"><img src="https://avatars.githubusercontent.com/u/62337087?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Khaled</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yahia3200"><img src="https://avatars.githubusercontent.com/u/30212455?v=4" width="150px;" alt=""/><br /><sub><b>yahia zakaria</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hoskillua"><img src="https://avatars.githubusercontent.com/u/47090776?v=4" width="150px;" alt=""/><br /><sub><b>hossam saaed</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/HazemAbdo"><img src="https://avatars.githubusercontent.com/u/59124058?v=4" width="150px;" alt=""/><br /><sub><b>Hazem abdo</b></sub></a><br /></td>
-  </tr>
- </table>
-
-
-
